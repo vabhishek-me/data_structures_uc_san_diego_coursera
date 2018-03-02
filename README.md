@@ -5,4 +5,4 @@ This is my algorithm practice repo for the coursera specialization Data Structur
 
 ### Course 1 - Algorithmic Toolbox
 
- - [1 - Maximum Pairwise Product (Non-Negative Numbers)](./Course 1 - Algorithmic Toolbox/1 - Maximum Pairwise Product (Non-Negative Numbers))
+ - 1 - Maximum Pairwise Product (Non-Negative Numbers)

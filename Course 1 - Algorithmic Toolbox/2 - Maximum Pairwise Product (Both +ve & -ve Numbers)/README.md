@@ -17,7 +17,8 @@ Output: The maximum value that can be obtained by multiplying two different elem
  - Find two extreme values (both +ve and -ve).
 
  - Use four variable to keep track of the extreme values : 
-		- Max +ve Integer
+ 
+    - Max +ve Integer
     - 2nd Max +ve Integer
     - Max -ve Value (absolute)
     - 2nd Max -ve Value (absolute)

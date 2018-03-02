@@ -26,7 +26,8 @@ Output: The maximum value that can be obtained by multiplying two different elem
 
  - Go through the elements in two separate loops and find two max elements with different indexes.
 
- - Find Solution [maximum_pairwise_product_2n_complexity.cpp](./maximum_pairwise_product_2n_complexity.cpp)
+ - Find Solution 
+		- C++ : [maximum_pairwise_product_2n_complexity.cpp](./C++/maximum_pairwise_product_2n_complexity.cpp)
 
 
 ### Fast.2 Method (n Complexity)
@@ -35,4 +36,5 @@ Output: The maximum value that can be obtained by multiplying two different elem
 
  - Go through the elements in one loop and find both.
 
- - Find Solution [maximum_pairwise_product_n_complexity.cpp](./maximum_pairwise_product_n_complexity.cpp)
+ - Find Solution 
+		- C++ : [maximum_pairwise_product_n_complexity.cpp](./C++/maximum_pairwise_product_n_complexity.cpp)

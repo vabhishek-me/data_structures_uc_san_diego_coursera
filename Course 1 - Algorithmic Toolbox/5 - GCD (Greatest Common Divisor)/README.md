@@ -2,7 +2,9 @@
 
 ```
 
-The greatest common divisor GCD(a,b) of two non-negative integers a and b (which are not both equal to 0) is the greatest integer d that divides both a and b.
+The greatest common divisor GCD(a,b) of two non-negative integers 
+a and b (which are not both equal to 0) is 
+the greatest integer d that divides both a and b.
 
 -----
 
